@@ -1,0 +1,2 @@
+Locate your downloaded CUB dataset in this directory. 
+Then modify main.py dataset path argument appropriately. 
